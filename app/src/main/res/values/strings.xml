@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string-array name="countries_array">
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Bulgaria</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Czech Republic</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Hungary</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Latvia</item>
+        <item>Lithuania</item>
+        <item>Netherlands</item>
+        <item>Norway</item>
+        <item>Poland</item>
+        <item>Russia</item>
+        <item>Sweden</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="code_array">
+        <item>au</item>
+        <item>at</item>
+        <item>be</item>
+        <item>bg</item>
+        <item>ca</item>
+        <item>cn</item>
+        <item>cz</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>gr</item>
+        <item>hu</item>
+        <item>ie</item>
+        <item>it</item>
+        <item>jp</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>ru</item>
+        <item>se</item>
+        <item>gb</item>
+        <item>us</item>
+    </string-array>
+
+    <string-array name="categories_array">
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>General</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+</resources>

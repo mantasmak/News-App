@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:layout_gravity="center">
+
+    <Button android:id="@+id/wnbutton"
+        android:onClick="buttonClick"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:text="Wrold News"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFFFFF"/>
+
+    <Button android:id="@+id/lnbutton"
+        android:onClick="buttonClick"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:text="Lithuanian News"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFFFF"/>
+
+    <Button android:id="@+id/tbutton"
+        android:onClick="buttonClick"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:text="Technology"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFFFFF" />
+
+    <Button android:id="@+id/snbutton"
+        android:onClick="buttonClick"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:text="Saved News"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFFFF" />
+
+    <Button android:id="@+id/csbutton"
+        android:onClick="buttonClick"
+        android:layout_height="150dp"
+        android:layout_width="150dp"
+        android:text="Custom Search"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFFFFF" />
+</GridLayout>
